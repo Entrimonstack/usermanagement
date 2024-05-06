@@ -1,0 +1,26 @@
+nav h1{
+    color:yellow;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    text-align: center;
+}
+nav{
+    background-color: navy;
+    color:white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+nav ul{
+    display:flex;
+    justify-content: space-between;
+    width: 40%;
+    align-items: center;
+}
+nav ul a{
+    font-size:20px;
+    font-weight:300;
+    color:white;
+    text-decoration:none
+}
